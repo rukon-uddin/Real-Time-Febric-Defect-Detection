@@ -1,4 +1,4 @@
-# Real-Time-Febric-Defect-Detection
+# Real Time Febric Defect Detection
 Used
 - Python
 - Flask
